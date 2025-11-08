@@ -1,3 +1,4 @@
+![logo](https://github.com/Aaliyan634/Aaliyan634/blob/main/Generated%20Image%20November%2009%2C%202025%20-%201_06AM.png)
 <h1 align="center">Hi 👋, I'm Aaliyan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
