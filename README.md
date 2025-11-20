@@ -1,4 +1,4 @@
-![logo](https://github.com/Aaliyan634/Aaliyan634/blob/main/1_GNFNf_V7rj_C2YUCeZNzsw.webp)
+![logo](https://github.com/Aaliyan634/Aaliyan634/blob/main/1762895660373.jpeg)
 <h1 align="center">Hi 👋, I'm Aaliyan</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
